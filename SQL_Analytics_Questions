@@ -1,0 +1,31 @@
+SQL Questions :
+
+1. Retrieve all patient records.
+
+2. Calculate the total billing amount for each diagnosis.
+
+3. Find the total number of patients for each diagnosis.
+
+4. Calculate the total billing amount handled by each doctor.
+
+5. Find the number of patients admitted in each bed occupancy category.
+
+6. Calculate the average billing amount for each medical test.
+
+7. Find the total health insurance amount claimed for each medical test.
+
+8. Calculate the average feedback score for each doctor.
+
+9. Find the top 5 doctors based on patient count.
+
+10. Calculate the total billing amount by bed occupancy type.
+
+11. Find the top 5 patients with the highest billing amount.
+
+12. Calculate the total billing amount and health insurance amount.
+
+13. Find the total number of patients handled by each doctor.
+
+14. Find the diagnosis with the highest billing amount.
+
+15. Retrieve patients whose billing amount is greater than ₹40,000.
