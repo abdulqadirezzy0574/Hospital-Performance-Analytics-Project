@@ -13,7 +13,7 @@ By converting raw hospital data into meaningful insights, this project demonstra
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/SQL_Analytics_Questions">KPI's</a>
 
 ## KPI's Solution in SQL
-- <a href="">Solution</a>
+- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Hospital%20Performance%20Analytics%20%20SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
 - <a href="">Dashboard</a>
