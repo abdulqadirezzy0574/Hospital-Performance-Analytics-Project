@@ -22,7 +22,7 @@ By converting raw hospital data into meaningful insights, this project demonstra
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Project%20Findings">Project findings</a>
 
 ## Future Approach For Better Profitability
-- <a href="">Future Approach</a>
+- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Future%20Approach">Future Approach</a>
 
 
 
