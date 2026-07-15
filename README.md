@@ -10,7 +10,7 @@ By converting raw hospital data into meaningful insights, this project demonstra
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Papollo_Hospital_Patient_Dataset.csv">Dataset</a>
 
 ## Questions KPI's
-- <a href="">KPI's</a>
+- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/SQL_Analytics_Questions">KPI's</a>
 
 ## KPI's Solution in SQL
 - <a href="">Solution</a>
