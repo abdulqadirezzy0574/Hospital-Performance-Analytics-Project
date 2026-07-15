@@ -16,7 +16,7 @@ By converting raw hospital data into meaningful insights, this project demonstra
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Hospital%20Performance%20Analytics%20%20SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
-- <a href="">Dashboard</a>
+- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Papollo_Hospitals_Leads_Flow_Dashboard.png">Dashboard</a>
 
 ## Project Findings
 - <a href="">Project findings</a>
