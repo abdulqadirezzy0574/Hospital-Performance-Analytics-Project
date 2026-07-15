@@ -6,3 +6,25 @@ The objective of this project is to analyze hospital patient data using SQL and 
 
 By converting raw hospital data into meaningful insights, this project demonstrates the use of SQL for data analysis and Power BI for data visualization. The insights can help hospitals improve patient care, optimize bed utilization, manage hospital resources more efficiently, and support better decision-making through data-driven analysis.
 
+## Dataset Used
+- <a href="">Dataset</a>
+
+## Questions KPI's
+- <a href="">KPI's</a>
+
+## KPI's Solution in SQL
+- <a href="">Solution</a>
+
+## Power Bi Dashboard
+- <a href="">Dashboard</a>
+
+## Project Findings
+- <a href="">Project findings</a>
+
+## Future Approach For Better Profitability
+- <a href="">Future Approach</a>
+
+
+
+
+
