@@ -1,0 +1,18 @@
+While performing and analysing the Paballo Hospital project here is my Project Findings :
+
+
+Analyzed hospital patient records to understand patient admissions, billing, diagnoses, doctor performance, and bed occupancy.
+
+Found that viral infections accounted for the highest number of patient admissions, while fractures had the lowest number of cases during the analysis period.
+
+Private hospital rooms were the most occupied, showing a higher preference compared to general and ICU beds.
+
+Billing amounts varied across different diagnoses, helping identify treatments that generated higher hospital revenue.
+
+Doctor feedback scores remained consistently good, indicating a satisfactory patient experience across the hospital.
+
+Health insurance covered a significant portion of the treatment costs, reducing the financial burden on many patients.
+
+Different medical tests showed different billing patterns, helping identify the most frequently performed and higher-cost tests.
+
+The interactive dashboard made it easy to track patient trends, hospital revenue, diagnosis patterns, doctor performance, and bed occupancy, supporting better hospital planning and decision-making.
