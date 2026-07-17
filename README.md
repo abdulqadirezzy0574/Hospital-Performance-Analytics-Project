@@ -9,10 +9,10 @@ By converting raw hospital data into meaningful insights, this project demonstra
 ## Dataset Used
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Papollo_Hospital_Patient_Dataset.csv">Dataset</a>
 
-## Questions KPI's
-- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/SQL_Analytics_Questions">KPI's</a>
+## SQL Business Questions 
+- <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/SQL_Analytics_Questions">Questions</a>
 
-## KPI's Solution in SQL
+## Solution in SQL
 - <a href="https://github.com/abdulqadirezzy0574/Hospital-Performance-Analytics-Project/blob/main/Hospital%20Performance%20Analytics%20%20SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
